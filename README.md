@@ -1,4 +1,2 @@
-# LearningGitHub
-Learning GitHub from the tutorial.
-I am Abhishek Rathore.
-This is the new branch.
+# All Code Goes Here
+Putting all my files in this repo.
